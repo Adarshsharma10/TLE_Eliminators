@@ -1,0 +1,1 @@
+{"name":"Local: 7_Don't_Try_to_Count","url":"d:\\TLE_Eliminators\\Rated_800\\7_Don't_Try_to_Count.cpp","tests":[{"id":1772520742423,"input":"1\n1 5\na\naaaaa","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TLE_Eliminators\\Rated_800\\7_Don't_Try_to_Count.cpp","group":"local","local":true}
