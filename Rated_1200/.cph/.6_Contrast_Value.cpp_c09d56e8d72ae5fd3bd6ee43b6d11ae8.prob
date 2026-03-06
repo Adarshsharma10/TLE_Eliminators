@@ -1,0 +1,1 @@
+{"name":"Local: 6_Contrast_Value","url":"d:\\TLE_Eliminators\\Rated_1200\\6_Contrast_Value.cpp","tests":[{"id":1772812762340,"input":"4\n5\n1 3 3 3 7\n2\n4 2\n4\n1 1 1 1\n7\n5 4 2 1 0 0 4\n","output":"2\n2\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TLE_Eliminators\\Rated_1200\\6_Contrast_Value.cpp","group":"local","local":true}
