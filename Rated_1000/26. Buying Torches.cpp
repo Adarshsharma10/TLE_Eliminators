@@ -9,8 +9,9 @@ void solve() {
     cin>>x>>y>>k;
 
     ll total_sticks = y*k + k;
-    
-    
+    ll stick_trade = (total_sticks - 2)/(x-1);
+    stick_trade++;
+    cout<<stick_trade+k<<endl;
 }
 
 int main() {
@@ -25,3 +26,5 @@ int main() {
 
     return 0;
 }
+
+// Successfully Submitted
